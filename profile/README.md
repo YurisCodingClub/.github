@@ -1,7 +1,7 @@
 <div align="center">
     
 <h1>Welcome to Yuris Coding Club!
-<img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="animated smiling cat" width="30" height="30" />
+<img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30" height="30" />
 </h1>
 
 <p>This club helps career switchers get into web development and accessibility by learning how to code and contributing to open source.</p>
