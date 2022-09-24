@@ -6,7 +6,7 @@
 
 <p>This club helps career switchers get into web development and accessibility by learning how to code and contributing to open source.</p>
 <p>All projects are designed for UX designers, front-end developers, and accessibility developers to contribute to open source. <br />
-   Many issues are beginner friendly. The projects are designed to help all career switchers contribute to open source and gain the necessary work experience to <a href="https://dev.to/yuridevat/how-to-write-a-promising-cv-32ih">boost their CV</a> and get a job.</p>
+    Many issues are <b>beginner friendly</b>. The projects are designed to help all career switchers contribute to open source and gain the necessary work experience to <a href="https://dev.to/yuridevat/how-to-write-a-promising-cv-32ih">boost their CV</a> and get a job.</p>
 
 <h2>Everyone is welcome 🤝</h2>
 
