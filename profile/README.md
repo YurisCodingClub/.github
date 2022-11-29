@@ -5,9 +5,17 @@
 </h1>
 
 <p>This club helps career switchers get into web development and accessibility by learning how to code and contributing to open source.</p>
-<p>All projects are designed for UX designers, front-end developers, and accessibility developers to contribute to open source. <br />
+<p>All projects are designed for UX designers, front-end developers, and QA tester to contribute to open source. <br />
     Many issues are <b>beginner friendly</b>. The projects are designed to help all career switchers contribute to open source and gain the necessary work experience to <a href="https://dev.to/yuridevat/how-to-write-a-promising-cv-32ih">boost their CV</a> and get a job.</p>
-    <p>I have plenty ideas. So stay tuned for future projects 😎</p>
+
+    
+ <img alt="Merry Christmas" src="https://docs.google.com/uc?export=download&id=1WChmOq5Kxqy9fZEI8_ofL9HRX_f_L5XX" width="700" />
+ 
+ <h2>It's Christmas Time</h2>
+ 
+ Everyone is busy during Christmas time, so let's take a little break. YurisCodingClub Organization will be back on February 1st, with new projects and many issues for the community to work on!
+ 
+     I have plenty ideas. So stay tuned for future projects 😎
 
 <h2>Everyone is welcome 🤝</h2>
 
@@ -23,5 +31,5 @@ So no matter where you are right now, just do it.
     <img alt="Join Yuris Coding Club here"
 src="https://docs.google.com/uc?export=download&id=1-qKGDvfbOf19rmjZ6i0h33NtRoXDj32M" width="250" height="100" />
 </a>
-<a href="https://hacktoberfest.com/"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/hacktoberfest1.svg" alt="Hacktoberfest 2022" width="200" /></a>
+<!--<a href="https://hacktoberfest.com/"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/hacktoberfest1.svg" alt="Hacktoberfest 2022" width="200" /></a>-->
 </p>
