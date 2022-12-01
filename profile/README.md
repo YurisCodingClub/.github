@@ -13,7 +13,7 @@
  
  <h2>It's Christmas Time</h2>
  
- Everyone is busy during Christmas time, so let's take a little break. YurisCodingClub Organization will be back on February 1st, with new projects and many issues for the community to work on!
+ Everyone is busy during Christmas time, so let's take a little break. YurisCodingClub Organization will be back on <b>February 21st</b>, with new projects and many issues for the community to work on! In the mean while keep practicing your skills and keep an eye at <a align="center" href="http://yuriscodingclub.com">the official website of YurisCodingClub</a> - challenges, newsletter, and much more is coming up soon.
  
      I have plenty ideas. So stay tuned for future projects 😎
 
