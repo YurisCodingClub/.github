@@ -13,7 +13,7 @@
  
  <h2>What happens in 2023</h2>
  
-In order to have enough time and energy for personal growth in 2023 I have to step back a bit and decided that YurisCodingClub Open Source Organization will <b>not be back any time soon</b>.
+In order to have enough time and energy for personal growth in 2023 I have to step back a bit and decided that YurisCodingClub Open Source Organization will <b>be back for Hacktoberfest 2023</b>.
 
 In the mean while keep practicing your skills and keep an eye at <a align="center" href="http://yuriscodingclub.com">the official website of YurisCodingClub</a> - challenges, newsletter, and much more is coming up soon.
  
