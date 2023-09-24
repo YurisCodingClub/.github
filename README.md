@@ -9,13 +9,16 @@
     Many issues are <b>beginner friendly</b>. The projects are designed to help all career switchers contribute to open source and gain the necessary work experience to <a href="https://dev.to/yuridevat/how-to-write-a-promising-cv-32ih">boost their CV</a> and get a job.</p>
 
     
- <img alt="This organization is currently not maintained." src="https://docs.google.com/uc?export=download&id=1B1KP0ij14AOVIVLKY0waQxuzmc-fBSwf" width="700" />
+ <!--<img alt="This organization is currently not maintained." src="https://docs.google.com/uc?export=download&id=1B1KP0ij14AOVIVLKY0waQxuzmc-fBSwf" width="700" />-->
  
- <h2>What happens in 2023</h2>
- 
-In order to have enough time and energy for personal growth in 2023 I have to step back a bit and decided that YurisCodingClub Open Source Organization will <b>not be back any time soon</b>.
+ <!--<h2>What happens in 2023</h2>-->
+ <h2>Hacktoberfest 2023</h2>
 
-In the mean while keep practicing your skills and keep an eye at <a align="center" href="http://yuriscodingclub.com">the official website of YurisCodingClub</a> - challenges, newsletter, and much more is coming up soon.
+ Hacktoberfest is back, and so is YurisCodingClub, with two more projects to work and collaborate on.
+ 
+<!--In order to have enough time and energy for personal growth in 2023 I have to step back a bit and decided that YurisCodingClub Open Source Organization will <b>be back for Hacktoberfest 2023</b>.
+
+In the mean while keep practicing your skills and keep an eye at <a align="center" href="http://yuriscodingclub.com">the official website of YurisCodingClub</a> - challenges, newsletter, and much more is coming up soon.-->
  
      I have plenty ideas. So stay tuned for future projects 😎
 
@@ -33,5 +36,5 @@ So no matter where you are right now, just do it.
     <img alt="Join Yuris Coding Club here"
 src="https://docs.google.com/uc?export=download&id=1SKpZXUJ2X0Tqs8kL4OJqXbilVTKkDyKj" width="250" height="100" />
 </a>
-<!--<a href="https://hacktoberfest.com/"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/hacktoberfest1.svg" alt="Hacktoberfest 2022" width="200" /></a>-->
+<a href="https://hacktoberfest.com/"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/hacktoberfest1.svg" alt="Hacktoberfest 2022" width="200" /></a>
 </p>
