@@ -36,5 +36,5 @@ So no matter where you are right now, just do it.
     <img alt="Join Yuris Coding Club here"
 src="https://docs.google.com/uc?export=download&id=1SKpZXUJ2X0Tqs8kL4OJqXbilVTKkDyKj" width="250" height="100" />
 </a>
-<a href="https://hacktoberfest.com/"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/hacktoberfest1.svg" alt="Hacktoberfest 2022" width="200" /></a>
+<a href="https://hacktoberfest.com/"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/hf10_horz.png" alt="Hacktoberfest 2022" width="250" /></a>
 </p>
