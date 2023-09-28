@@ -25,7 +25,10 @@ In the mean while keep practicing your skills and keep an eye at <a align="cente
 <h2>Everyone is welcome 🤝</h2>
 
 <p>I switched careers to tech in my early thirties despite a completely different background.  <br />
-    I especially want to <b>encourage women and people with disabilities</b> to become part of a community that supports each other in fulfilling our dream.
+    
+    I especially want to encourage women and people with disabilities
+    to become part of a community that supports each other in fulfilling our dream.
+    
 So no matter where you are right now, just do it.
 </p>
 
