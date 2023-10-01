@@ -22,6 +22,8 @@ In the mean while keep practicing your skills and keep an eye at <a align="cente
  
      I have plenty ideas. So stay tuned for future projects 😎
 
+Go to the <a href="https://github.com/orgs/YurisCodingClub/discussions">discussion</a> section to read more about collaborating in one of YurisCodingClub projects.
+
 <h2>Everyone is welcome 🤝</h2>
 
 <p>I switched careers to tech in my early thirties despite a completely different background.  <br />
