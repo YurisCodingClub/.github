@@ -1,6 +1,9 @@
 
 > [!IMPORTANT] 
-> YurisCodingClub is taking a break! We will see us again at Hacktoberfest 2024!
+> YurisCodingClub is closing its doors!
+> But I encourage you to follow https://webforeveryone.us/ to get an even better experience in learning about accessibility, open source and more.
+> Yuris Coding Club started out to help beginners get into open source. In 2022 and 2023 we did a great job working together on various projects and gain new skills like contributing to open source, working in teams, and more.
+> I am thankful and proud of everyone of who was part of this amazing journey and hopefully see each other in the future again.
 
 <div align="center">
     
@@ -31,10 +34,8 @@ So no matter where you are right now, just do it.
 </p>
 
 <!--<h2>What happens in 2023</h2>-->
- <h2>See you at Hacktoberfest 2024</h2>
-
- Of course YurisCodingClub will be back for Hacktoberfest 2024
-
+ <h2>Hacktoberfest</h2>
+ 
  <!--Hacktoberfest is back, and so is YurisCodingClub, with two more projects to work and collaborate on.
  
 In order to have enough time and energy for personal growth in 2023 I have to step back a bit and decided that YurisCodingClub Open Source Organization will <b>be back for Hacktoberfest 2023</b>.
